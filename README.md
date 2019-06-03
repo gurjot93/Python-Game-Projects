@@ -4,7 +4,7 @@
 ##### Game Link: http://www.codeskulptor.org/#user46_Ul9dsLrlax_0.py
 
 ##### Screenshots of the game:
-![alt text](https://github.com/gurjot93/Python-Game-Projects/blob/master/Images/RiceRocks.png)
+![alt text](https://github.com/gurjot93/Python-Game-Projects/blob/master/Images/RiceRocks2.png)
 ![alt text](https://github.com/gurjot93/Python-Game-Projects/blob/master/Images/RiceRocks1.png)
 
 
